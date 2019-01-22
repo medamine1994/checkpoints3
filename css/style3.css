@@ -1,0 +1,46 @@
+#margin{
+    color: red;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-top:  50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 200px;
+    padding-top : 5px;
+    padding-bottom : 10px;
+    padding-right : 15px;
+    padding-left : 20px;
+    
+}
+#try{
+    border: 2px solid black;
+}
+    img {
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
+}
+h1,h2{
+    background-color:blue;
+    display: block;
+    width: 12%;
+
+}
+h3{
+    background-color: blue;
+ margin-right: 90%;
+ display: none;
+ 
+}
+h3:hover{
+    color: yellow;
+}
+/* p{
+    background-color: tomato;
+    display: block;
+} */
+/* #p1,#image1,#languages{
+    padding-left : 15px;
+} */
+#plastic{
+    padding-left: 15px;
+}
